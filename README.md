@@ -1,33 +1,12 @@
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Earrann</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-</p>
-
-
+<!-- PROJECT LOGO/TITLE -->
+# Earrann
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
 * [About the Project](#about-the-project)
+* [Contact](#contact)
   <!-- * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
@@ -36,7 +15,6 @@
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license) -->
-* [Contact](#contact)
 <!--  * [Acknowledgements](#acknowledgements) -->
 
 
@@ -44,10 +22,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 Working with a lot of real estate agents, I needed a quick and easy way to look up their MLS listing via the MLS number they sent and extract the data/images from that listing so I could use it in our marketing for these clients. Instead of manually going through and downloading the images and coping the text one piece at a time, creating a scraper that would gather this information for me is my goal.
-<!-->
+<!--
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
 * You shouldn't be doing the same tasks over and over like creating a README from scratch
@@ -131,7 +107,7 @@ Contributions are what make the open source community such an amazing place to b
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
+-->
 
 <!-- CONTACT -->
 ## Contact
