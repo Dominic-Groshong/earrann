@@ -112,7 +112,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@xzonos](https://twitter.com/xzonos) - groshond@gmail.com
+Your Name - [@xzonos](https://twitter.com/xzonos)
 
 Project Link: [https://github.com/Dominic-Groshong/earrann](https://github.com/Dominic-Groshong/earrann)
 
