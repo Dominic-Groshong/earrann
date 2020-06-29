@@ -27,8 +27,6 @@ def search_soup():
     """
     What data do we want to get from soup?
     ---------------------------------------
-
-
     images
     type of home
     style (1 story, 2 story, etc.)
