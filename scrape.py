@@ -1,6 +1,4 @@
 #!/usr/bin/env python
-import os
-import sys
 import re
 import requests
 from bs4 import BeautifulSoup
